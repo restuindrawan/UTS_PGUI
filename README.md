@@ -17,4 +17,5 @@ Dialog Delete Data
 
 ## No 2
 Codingan yang tertera pada soal no 2 memiliki kesalahan pada line terakhir yang dimana ada indentasi berlebih. Pada bahasa pemrograman Python indentasi digunakan sebagai penanda sebuah blok kode sedangkan pada bahasa pemrograman lagi indentasi hanya digunakan untuk kemudahan pembacaan
-![carbon](https://user-images.githubusercontent.com/57904667/120757209-d3fcb700-c542-11eb-846e-0967bfaf983b.png)
+![carbon (1)](https://user-images.githubusercontent.com/57904667/120758409-62be0380-c544-11eb-9e60-5e4cb5294100.png)
+
